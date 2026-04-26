@@ -6,4 +6,4 @@ iℏ ∂Φ∞/∂t = Ĥ(t)Φ∞ + N(Φ∞)
 Toroidal resonance generates constants naturally.
 Casimir 1948 + Dubovik 1990 + Marks 2021 = established physics
 
-**Proof:** [Solgot](solgot-10e-200.pdf) - 10⁻²⁰⁰ fine-tuning proof
+**📊 Math:** [EQUATIONS.md](math/EQUATIONS.md) | **📄 Proof:** [Solgot PDF](solgot-10e-200.pdf)
